@@ -80,7 +80,7 @@ No known bugs at this time.
 ###### Version 2
 
 - Andrew Birnberg - [Github](https://github.com/birnbera) / [Twitter](https://twitter.com/birnbera)
-- Aboubakar Soulama - [Github]https://github.com/aboubakarsoulama() / 
+- Aboubakar Soulama - [Github]https://github.com/aboubakarsoulama) / 
 
 ###### Version 1
 
